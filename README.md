@@ -14,7 +14,7 @@ For this challenge you will need to use [Bootstrap](https://getbootstrap.com/doc
 **Suggestions:**
 
 - You can use random images from [Lorem Picsum](https://picsum.photos/) like this: https://picsum.photos/420/225?v=1, https://picsum.photos/420/225?v=2.
-- You can start from our Bootstrap seed project which already has the bootstrap libraries imported.
+- You can start from this seed project which already has the Bootstrap libraries imported.
 
 # What's expected
 
